@@ -1,0 +1,4 @@
+Torrent Browser:
+En webläsare skulle kunna agera som en bittorrentklient för de websidor som den besökt inom den senaste dagen (eller valfritt tidsintervall).
+Webservern för sidan är samtidigt en tracker. Poängen är att slashdotting eller DDOS inte skulle kunna döda en server som idag, utan bara försämra det. Eftersom klienter då måste hämta informationen från andra klienter. Men eftersom websidor är ganska små skulle de kunna leverera sidor ganska snabbt.
+Klienters bandbredd skulle få bestämma hurvida dom även agerar torrent för stora filer som video/ljud/bilder osv.
